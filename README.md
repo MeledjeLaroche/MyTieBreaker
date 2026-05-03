@@ -89,4 +89,3 @@ Ce projet intègre un design nommé **Elegant Dark**, qui ne laisse rien au hasa
   - Les citations ont un rendu éditorial grâce à la typographie *Playfair Display*.
 
 ---
-*Généré pour vous via Google AI Studio*
