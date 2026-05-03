@@ -35,7 +35,7 @@ graph TD
     AI -->|4. Retour des résultats au format Markdown| SDK
     SDK -->|5. Mise à jour de l'état local| State
     State -->|6. Interprétation UI avec remark-gfm| Markdown[Composant d'affichage]
-    Markdown -->|7. Affichage Stylisé (Tableaux, Listes, etc.)| Client
+    Markdown -->|7. Affichage Stylisé : Tableaux, Listes| Client
 ```
 
 ### 📁 Structure des fichiers (Arborescence clés)
